@@ -1,2 +1,2 @@
-# algo-trading-strategies
-Repository for experimenting and exercising algorithmic trading strategies
+# Trading Experimentations
+Repository for experimenting and evaluating algorithmic trading strategies
